@@ -1,6 +1,6 @@
 {
-  "name": "bryanjhv/slim-session",
-  "description": "Session middleware and helper for Slim framework 3.",
+  "name": "felliper/slim-session",
+  "description": "Alternative session middleware and helper for Slim framework 3 of bryanjhv/slim-session.",
   "type": "library",
   "keywords": [
     "slim",
@@ -15,6 +15,12 @@
       "name": "Bryan Horna",
       "email": "bryanjhv@gmail.com",
       "homepage": "https://bryanjhv.github.io",
+      "role": "developer"
+    },
+    {
+      "name": "Fellipe R",
+      "email": "",
+      "homepage": "",
       "role": "developer"
     }
   ],
